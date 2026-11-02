@@ -1,0 +1,16 @@
+# ─── Protected source (never published) ───────────────────────
+src/
+public/
+scripts/
+index.html
+package.json
+package-lock.json
+vite.config.js
+firebase.json
+.firebaserc
+.firebase/
+
+# ─── Dependencies & system junk ───────────────────────────────
+node_modules/
+.DS_Store
+*.local
